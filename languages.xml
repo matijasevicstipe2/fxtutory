@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+    <wordExpression id="0">
+        <en>Login</en>
+        <hr>Prijava</hr>
+    </wordExpression>
+    <wordExpression id="1">
+        <en>Welcome to Tutory!</en>
+        <hr>Dobrodošli u Tutory!</hr>
+    </wordExpression>
+    <wordExpression id="2">
+        <en>New user</en>
+        <hr>Novi korisnik</hr>
+    </wordExpression>
+    <wordExpression id="3">
+        <en>Languages</en>
+        <hr>Jezici</hr>
+    </wordExpression>
+    <wordExpression id="4">
+        <en>E-mail:</en>
+        <hr>E-pošta:</hr>
+    </wordExpression>
+    <wordExpression id="5">
+        <en>Password:</en>
+        <hr>Lozinka:</hr>
+    </wordExpression>
+    <wordExpression id="6">
+        <en>Name:</en>
+        <hr>Ime:</hr>
+    </wordExpression>
+    <wordExpression id="7">
+        <en>Username:</en>
+        <hr>Korisničko ime:</hr>
+    </wordExpression>
+    <wordExpression id="8">
+        <en>Date of birth:</en>
+        <hr>Datum rođenja:</hr>
+    </wordExpression>
+    <wordExpression id="9">
+        <en>Registration</en>
+        <hr>Registracija</hr>
+    </wordExpression>
+    <wordExpression id="10">
+        <en>Creating new account</en>
+        <hr>Stvaranje novog korisničkog računa</hr>
+    </wordExpression>
+    <wordExpression id="11">
+        <en>Lastname:</en>
+        <hr>Prezime:</hr>
+    </wordExpression>
+    <wordExpression id="12">
+        <en>Profile picture:</en>
+        <hr>Slika profila:</hr>
+    </wordExpression>
+    <wordExpression id="13">
+        <en>Picture selected.</en>
+        <hr>Slika odabrana.</hr>
+    </wordExpression>
+    <wordExpression id="14">
+        <en>Select picture!</en>
+        <hr>Odaberi sliku!</hr>
+    </wordExpression>
+    <wordExpression id="15">
+        <en>Browse</en>
+        <hr>Pretraži</hr>
+    </wordExpression>
+    <wordExpression id="16">
+        <en>Profile</en>
+        <hr>Profil</hr>
+    </wordExpression>
+    <wordExpression id="17">
+        <en>Settings</en>
+        <hr>Postavke</hr>
+    </wordExpression>
+    <wordExpression id="18">
+        <en>Log Out</en>
+        <hr>Odjavi se</hr>
+    </wordExpression>
+    <wordExpression id="19">
+        <en>Search ads</en>
+        <hr>Pretraži oglase</hr>
+    </wordExpression>
+    <wordExpression id="20">
+        <en>Create ad</en>
+        <hr>Napravi oglas</hr>
+    </wordExpression>
+    <wordExpression id="21">
+        <en>Ad title:</en>
+        <hr>Naslov oglasa:</hr>
+    </wordExpression>
+    <wordExpression id="22">
+        <en>Field:</en>
+        <hr>Područje:</hr>
+    </wordExpression>
+    <wordExpression id="23">
+        <en>Info about ad:</en>
+        <hr>Informacije o oglasu:</hr>
+    </wordExpression>
+    <wordExpression id="24">
+        <en>Available area location:</en>
+        <hr>Područje dostupnosti oglasa:</hr>
+    </wordExpression>
+    <wordExpression id="25">
+        <en>Price of service(kn/hour):</en>
+        <hr>Cijena usluge(kn/sat):</hr>
+    </wordExpression>
+    <wordExpression id="26">
+        <en>Create ad</en>
+        <hr>Napravi oglas</hr>
+    </wordExpression>
+    <wordExpression id="27">
+        <en>Go back</en>
+        <hr>Odustani</hr>
+    </wordExpression>
+    <wordExpression id="28">
+        <en>Failed login</en>
+        <hr>Neuspješna prijava</hr>
+    </wordExpression>
+    <wordExpression id="29">
+        <en>Please check your credentials!</en>
+        <hr>Molimo provjerite svoje podatke!</hr>
+    </wordExpression>
+    <wordExpression id="30">
+        <en>Login</en>
+        <hr>Prijava</hr>
+    </wordExpression>
+    <wordExpression id="31">
+        <en>Published by:</en>
+        <hr>Objavio/la:</hr>
+    </wordExpression>
+    <wordExpression id="32">
+        <en>Search ads by your criteria</en>
+        <hr>Pretraži oglase po vašem kriteriju</hr>
+    </wordExpression>
+    <wordExpression id="33">
+        <en>Search by title:</en>
+        <hr>Pretraži po naslovu:</hr>
+    </wordExpression>
+    <wordExpression id="34">
+        <en>Filter by:</en>
+        <hr>Filtriraj po:</hr>
+    </wordExpression>
+    <wordExpression id="35">
+        <en>Sort by:</en>
+        <hr>Sortitaj po:</hr>
+    </wordExpression>
+    <wordExpression id="36">
+        <en>Search</en>
+        <hr>Pretraži</hr>
+    </wordExpression>
+    <wordExpression id="37">
+        <en>Go back</en>
+        <hr>Idi natrag</hr>
+    </wordExpression>
+    <wordExpression id="38">
+        <en>Profile Details</en>
+        <hr>Detalji profila</hr>
+    </wordExpression>
+    <wordExpression id="39">
+        <en>Hello</en>
+        <hr>Pozdrav</hr>
+    </wordExpression>
+    <wordExpression id="40">
+        <en>App settings</en>
+        <hr>Postavke aplikacije</hr>
+    </wordExpression>
+    <wordExpression id="41">
+        <en>Username:</en>
+        <hr>Ime korisika:</hr>
+    </wordExpression>
+    <wordExpression id="42">
+        <en>Last logged in:</en>
+        <hr>Zadnji put prijavljen:</hr>
+    </wordExpression>
+    <wordExpression id="43">
+        <en>Last logged out:</en>
+        <hr>Zadnji put odjavljen:</hr>
+    </wordExpression>
+    <wordExpression id="44">
+        <en>Current language:</en>
+        <hr>Trenutni jezik:</hr>
+    </wordExpression>
+    <wordExpression id="45">
+        <en>Total users:</en>
+        <hr>Ukupan broj korisnika:</hr>
+    </wordExpression>
+    <wordExpression id="46">
+        <en>Total ads:</en>
+        <hr>Ukupan broj oglasa:</hr>
+    </wordExpression>
+    <wordExpression id="47">
+        <en>Contact:</en>
+        <hr>Kontakt:</hr>
+    </wordExpression>
+    <wordExpression id="48">
+        <en>Instructor Mode</en>
+        <hr>Instruktor mod</hr>
+    </wordExpression>
+    <wordExpression id="49">
+        <en>Learner mode</en>
+        <hr>Učenik mod</hr>
+    </wordExpression>
+    <wordExpression id="50">
+        <en>Choose field:</en>
+        <hr>Odaberi područje:</hr>
+    </wordExpression>
+    <wordExpression id="51">
+        <en>Choose your location:</en>
+        <hr>Odaberi svoju lokaciju:</hr>
+    </wordExpression>
+    <wordExpression id="52">
+        <en>Set critera</en>
+        <hr>Postavi kriterije</hr>
+    </wordExpression>
+    <wordExpression id="53">
+        <en>Instructor mode</en>
+        <hr>Instruktor mod</hr>
+    </wordExpression>
+    <wordExpression id="54">
+        <en>Your ads:</en>
+        <hr>Vaši oglasi:</hr>
+    </wordExpression>
+
+</dictionary>
